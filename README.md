@@ -144,10 +144,6 @@ SQL | Data Cleaning | Exploratory Data Analysis | Power BI | DAX | Power Query |
 
 ## 👩‍💻 Author
 
-**MUNDRU VAISHNAVI**
-
-- GitHub: [mundruvaishnavi8](https://github.com/mundruvaishnavi8)
-
----
+**SaiduluPulipati**
 
 ⭐ **Project Note:** This project was developed as part of my Data Analytics portfolio to demonstrate practical skills in SQL, Power BI, data analysis, and business intelligence through a real-world HR analytics use case.
